@@ -1,9 +1,10 @@
 # jenfong.github.io
 + code
-  - java
-  - vue
-  - js
+  - java  
   - nodejs
+  - python
 + deploy
-+ linux
+  - linux
++ hobbies
+  - cycling
 
